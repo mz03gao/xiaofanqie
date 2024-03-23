@@ -20604,12 +20604,12 @@ nav.menu .menu-mobile {
   position: relative;
   float: right;
 }
-nav.menu .menu-dropdown-icon > a:after {
+/* nav.menu .menu-dropdown-icon > a:after {
   content: "\e948";
   font-family: "WojoIcons";
   float: right;
   margin-left: 0.5em;
-}
+} */
 nav.menu .menu-dropdown-icon:before {
   content: "\e948";
   font-family: "WojoIcons";
