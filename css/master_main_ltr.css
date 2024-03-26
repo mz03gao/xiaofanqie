@@ -13510,12 +13510,23 @@ img.wojo.image {
 }
 .wojo.fields {
   display: flex;
-  flex-direction: row;
-  margin-left: -2em;
+  flex-direction: column;
+  width: 30%;
+  justify-content: space-between;
+  /* margin-right: 2em; */
+}
+#wojo_form{
+  display: flex;
+  flex-wrap: wrap; /* 允许换行 */
+  margin: 0 3%;
+}
+.wojo-combody{
+  width: 100% !important;
 }
 .wojo.fields .field {
   flex: 1 1 0;
   min-width: 0;
+
   padding-left: 2em;
   margin-bottom: 2em;
 }
