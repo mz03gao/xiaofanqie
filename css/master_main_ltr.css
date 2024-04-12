@@ -7467,7 +7467,7 @@ legend {
   outline: none;
   vertical-align: middle;
   background-color: #c8cbce;
-  color: #1e2022;
+  color: #dc642e;
   font-family: inherit;
   margin: 0em 0.25rem 0em 0em;
   padding: 1rem 1.875rem;
@@ -7483,7 +7483,7 @@ legend {
   user-select: none;
   box-sizing: content-box;
   will-change: inherit;
-  border: 1px solid #1e33a5;
+  border: 1px solid #dc642e;
   -webkit-tap-highlight-color: transparent;
   transition: all 0.2s ease-in-out;
   position: relative;
@@ -7527,7 +7527,7 @@ legend {
 .wojo.simple.white.buttons .button,
 .wojo.simple.white.button {
   background: transparent;
-  color: #1e33a5;
+  color: #dc642e;
 }
 .wojo.simple.buttons .button,
 .wojo.simple.button,
@@ -19372,7 +19372,7 @@ body.dimmable > .dimmer {
   font-style: italic;
 }
 .wojo.primary.text {
-  color: #1e33a5;
+  color: #dc642e;
 }
 .wojo.secondary.text {
   color: #77838f;
@@ -19437,7 +19437,7 @@ body.dimmable > .dimmer {
   background-image: linear-gradient(92deg, #f35626, #feab3a);
   background-clip: text;
   -webkit-animation: hue 10s infinite linear;
-  animation: hue 10s infinite linear;
+  animation: hue 10s infinite linear;          
   text-fill-color: transparent;
 }
 @-webkit-keyframes hue {
