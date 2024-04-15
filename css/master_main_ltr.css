@@ -7593,6 +7593,14 @@ legend {
   background-color: #f1f2f4;
   border-color: #f1f2f4;
 }
+.logo-title{
+  display: inline-block;
+  height: 90px;
+  line-height: 90px;
+  font-weight: 600;
+  color: #274e83;
+
+}
 .wojo.secondary.buttons .button:hover,
 .wojo.secondary.buttons .button:active,
 .wojo.secondary.buttons .button:focus,
